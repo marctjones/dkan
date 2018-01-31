@@ -1,6 +1,7 @@
 # DKAN Open Data Portal
 
 [![DKAN Sitewide Build Status](https://circleci.com/gh/NuCivic/dkan.svg?style=svg)](https://circleci.com/gh/NuCivic/dkan)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarctjones%2Fdkan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarctjones%2Fdkan?ref=badge_shield)
 
 [![Join the chat at https://gitter.im/NuCivic/dkan](https://badges.gitter.im/NuCivic/dkan.svg)](https://gitter.im/NuCivic/dkan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -104,3 +105,7 @@ git commit -m "Issue NuCivic/dkan#<issue_number>: ..."
 Just replace **<issue_number>** with the actual issue number. You can reference pull requests exactly like that if you add the same text **"NuCivic/dkan#&lt;issue_number&gt;"** in a comment. 
 
 This really help us detecting changes and pulling them in in faster.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmarctjones%2Fdkan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmarctjones%2Fdkan?ref=badge_large)
