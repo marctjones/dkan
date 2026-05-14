@@ -3,7 +3,7 @@
     "description": "Nucivic Priviate ahoy commands",
     "require": {
         "symfony/yaml": "~3.0",
-        "twig/twig": "~1.0"
+        "twig/twig": "~3.11"
     },
     "require-dev": {
         "symfony/yaml": "~3.0"
